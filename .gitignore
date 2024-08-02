@@ -1,0 +1,28 @@
+# VS Code settings
+.vscode/
+
+# Rust
+algorithms/**/target
+data-structures/**/target
+
+# Node.js
+algorithms/**/node_modules
+data-structures/**/node_modules
+
+# Go
+algorithms/**/*.exe
+data-structures/**/*.exe
+algorithms/**/*.exe~
+data-structures/**/*.exe~
+algorithms/**/*.dll
+data-structures/**/*.dll
+algorithms/**/*.so
+data-structures/**/*.so
+algorithms/**/*.dylib
+data-structures/**/*.dylib
+algorithms/**/*.test
+data-structures/**/*.test
+algorithms/**/*.out
+data-structures/**/*.out
+algorithms/**/go.work
+data-structures/**/go.work
